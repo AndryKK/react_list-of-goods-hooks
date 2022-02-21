@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,gBAAiB,CACjB,iBACF","file":"main.dcec0460.chunk.css","sourcesContent":[".button {\n  margin-left: 10px;\n  margin-bottom: 5px;\n}\n"]}
